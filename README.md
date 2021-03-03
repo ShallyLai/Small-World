@@ -1,4 +1,4 @@
-# Small_World
+# Small World
 Goal: Study the Properties of "Small World" and Compare Different Data Structures
 1. Generate a cycle of 1000 nodes. Each edge has length 1.
 2. Add x random edges. Each random edge has the same length y.
